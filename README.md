@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/zaid786-collab/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/zaid786-collab/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1652-defuse-the-bomb](https://github.com/zaid786-collab/LeetCode/tree/master/1652-defuse-the-bomb) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/zaid786-collab/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/zaid786-collab/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/zaid786-collab/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/zaid786-collab/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/zaid786-collab/LeetCode/tree/master/0455-assign-cookies) |
 | [0969-pancake-sorting](https://github.com/zaid786-collab/LeetCode/tree/master/0969-pancake-sorting) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/zaid786-collab/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/zaid786-collab/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Sorting
 |  |
 | ------- |
