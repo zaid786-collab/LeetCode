@@ -1,0 +1,18 @@
+class Solution {
+public:
+    int countDigitOccurrences(vector<int>& nums, int digit) {
+        int count = 0;
+        int n = nums.size();
+
+        for(int i=0;i<n;i++) {
+            while(nums[i] > 0) {
+                if(nums[i] % 10 == digit) {
+                    count++;
+                }
+                nums[i] /= 10;
+            }
+        }
+
+        return count;
+    }
+};
