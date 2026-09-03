@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/zaid786-collab/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/zaid786-collab/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/zaid786-collab/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/zaid786-collab/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/zaid786-collab/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Sliding Window
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/zaid786-collab/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/zaid786-collab/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/zaid786-collab/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Linked List
 |  |
 | ------- |
