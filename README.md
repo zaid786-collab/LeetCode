@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/zaid786-collab/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/zaid786-collab/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1652-defuse-the-bomb](https://github.com/zaid786-collab/LeetCode/tree/master/1652-defuse-the-bomb) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/zaid786-collab/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/zaid786-collab/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/zaid786-collab/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/zaid786-collab/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1822-sign-of-the-product-of-an-array](https://github.com/zaid786-collab/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/zaid786-collab/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/zaid786-collab/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/zaid786-collab/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
