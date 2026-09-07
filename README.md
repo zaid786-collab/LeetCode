@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/zaid786-collab/LeetCode/tree/master/0455-assign-cookies) |
+| [0739-daily-temperatures](https://github.com/zaid786-collab/LeetCode/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/zaid786-collab/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/zaid786-collab/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0969-pancake-sorting](https://github.com/zaid786-collab/LeetCode/tree/master/0969-pancake-sorting) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/zaid786-collab/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/zaid786-collab/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/zaid786-collab/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/zaid786-collab/LeetCode/tree/master/0739-daily-temperatures) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/zaid786-collab/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Bracket Sequences
 |  |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/zaid786-collab/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/zaid786-collab/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/zaid786-collab/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/zaid786-collab/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
