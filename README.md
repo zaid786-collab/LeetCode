@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/zaid786-collab/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/zaid786-collab/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/zaid786-collab/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/zaid786-collab/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/zaid786-collab/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/zaid786-collab/LeetCode/tree/master/3895-count-digit-appearances) |
 ## Linked List
