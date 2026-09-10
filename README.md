@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/zaid786-collab/LeetCode/tree/master/0455-assign-cookies) |
 | [0969-pancake-sorting](https://github.com/zaid786-collab/LeetCode/tree/master/0969-pancake-sorting) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/zaid786-collab/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2396-strictly-palindromic-number](https://github.com/zaid786-collab/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/zaid786-collab/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Greedy
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1822-sign-of-the-product-of-an-array](https://github.com/zaid786-collab/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2396-strictly-palindromic-number](https://github.com/zaid786-collab/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/zaid786-collab/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/zaid786-collab/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/zaid786-collab/LeetCode/tree/master/3870-count-commas-in-range) |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/zaid786-collab/LeetCode/tree/master/0739-daily-temperatures) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/zaid786-collab/LeetCode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
