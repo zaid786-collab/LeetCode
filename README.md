@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/zaid786-collab/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/zaid786-collab/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/zaid786-collab/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/zaid786-collab/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/zaid786-collab/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/zaid786-collab/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/zaid786-collab/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/zaid786-collab/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/zaid786-collab/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/zaid786-collab/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/zaid786-collab/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/zaid786-collab/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/zaid786-collab/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/zaid786-collab/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/zaid786-collab/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3903-smallest-stable-index-i](https://github.com/zaid786-collab/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/zaid786-collab/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Bit Manipulation
