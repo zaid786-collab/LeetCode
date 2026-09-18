@@ -1,0 +1,10 @@
+{
+  "code": "class Solution {\npublic:\n    int garbageCollection(vector<string>& garbage, vector<int>& travel) {\n        int lg = 0,lm = 0,lp = 0;\n        int ans = 0;\n\n        for(int i=0;i<garbage.size();i++) {\n            for(char ch : garbage[i]) {\n                if(ch == 'G') {\n                    ans++;\n                    lg = i;\n                }\n                else if(ch == 'P') {\n                    ans++;\n                    lp = i;\n                }\n                else {\n                    ans++;\n                    lm = i;\n                }\n            }\n        }\n\n        for(int i=0;i<lg;i++){\n            ans += travel[i];\n        }\n\n        for(int i=0;i<lp;i++){\n            ans += travel[i];\n        }\n\n        for(int i=0;i<lm;i++){\n            ans += travel[i];\n        }\n\n        return ans;\n    }\n};",
+  "difficulty": "Medium",
+  "language": "c++",
+  "platform": "LeetCode",
+  "problemName": "Minimum Amount of Time to Collect Garbage",
+  "problemNumber": "2391",
+  "submissionDate": "2026-09-18T04:10:35.880Z",
+  "submissionUrl": "https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/submissions/2145326942/"
+}
