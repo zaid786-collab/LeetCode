@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/zaid786-collab/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/zaid786-collab/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/zaid786-collab/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/zaid786-collab/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -205,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/zaid786-collab/LeetCode/tree/master/1029-two-city-scheduling) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/zaid786-collab/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
