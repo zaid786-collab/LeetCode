@@ -8,10 +8,10 @@ public:
         int x = pow(2,n-2);
 
         if(k <= x) {
-            return KthGrammar(n-1,k);
+            return kthGrammar(n-1,k);
         }
         else {
-            1 - return KthGrammer(n-1,k-x);
+            return 1 - kthGrammar(n-1,k-x);
         }
     }
 };
