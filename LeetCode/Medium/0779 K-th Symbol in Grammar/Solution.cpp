@@ -11,7 +11,7 @@ public:
             return KthGrammar(n-1,k);
         }
         else {
-            1 
+            1 - return KthGrammer(n-1,k-x);
         }
     }
 };

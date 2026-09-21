@@ -1,10 +1,10 @@
 {
-  "code": "class Solution {\npublic:\n    int kthGrammar(int n, int k) {\n        if(n == 1) {\n            return 0;\n        }\n\n        int x = pow(2,n-2);\n\n        if(k <= x) {\n            return KthGrammar(n-1,k);\n        }\n        else {\n            1 \n        }\n    }\n};",
+  "code": "class Solution {\npublic:\n    int kthGrammar(int n, int k) {\n        if(n == 1) {\n            return 0;\n        }\n\n        int x = pow(2,n-2);\n\n        if(k <= x) {\n            return KthGrammar(n-1,k);\n        }\n        else {\n            1 - return KthGrammer(n-1,k-x);\n        }\n    }\n};",
   "difficulty": "Medium",
   "language": "c++",
   "platform": "LeetCode",
   "problemName": "K-th Symbol in Grammar",
   "problemNumber": "779",
-  "submissionDate": "2026-09-21T09:48:05.295Z",
-  "submissionUrl": "https://leetcode.com/problems/k-th-symbol-in-grammar/"
+  "submissionDate": "2026-09-21T09:48:56.827Z",
+  "submissionUrl": "https://leetcode.com/problems/k-th-symbol-in-grammar/description/"
 }
