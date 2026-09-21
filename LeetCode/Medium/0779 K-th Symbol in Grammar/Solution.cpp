@@ -5,6 +5,13 @@ public:
             return 0;
         }
 
-        int x = (2^(n-1));
+        int x = pow(2,n-2);
+
+        if(k <= x) {
+            return KthGrammar(n-1,k);
+        }
+        else {
+            1 
+        }
     }
 };
