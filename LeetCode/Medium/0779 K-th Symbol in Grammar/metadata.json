@@ -1,10 +1,10 @@
 {
-  "code": "class Solution {\npublic:\n    int kthGrammar(int n, int k) {\n        vector<int> prev(1,0);\n        vector<int> main;\n\n        int i = n;\n        while(i--) {\n\n            vector<int> next;\n\n            int x = prev.size();\n            for(int i=0;i<x;i++) {\n                if(prev[i] == 0) {\n                    next.push_back(0);\n                    next.push_back(1);\n                }\n                else if(prev[i] == 1) {\n                    next.push_back(1);\n                    next.push_back(0);\n                }\n            }\n            prev = next;\n        }\n\n        main = prev;\n\n        return main[k-1];\n    }\n};",
+  "code": "class Solution {\npublic:\n    int kthGrammar(int n, int k) {\n        if(n == 1) {\n            return 0;\n        }\n\n        int x = (2^(n-1));\n    }\n};",
   "difficulty": "Medium",
   "language": "c++",
   "platform": "LeetCode",
   "problemName": "K-th Symbol in Grammar",
   "problemNumber": "779",
-  "submissionDate": "2026-09-21T09:45:00.400Z",
-  "submissionUrl": "https://leetcode.com/problems/k-th-symbol-in-grammar/description/"
+  "submissionDate": "2026-09-21T09:47:01.497Z",
+  "submissionUrl": "https://leetcode.com/problems/k-th-symbol-in-grammar/"
 }
