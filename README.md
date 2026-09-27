@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/zaid786-collab/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/zaid786-collab/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1652-defuse-the-bomb](https://github.com/zaid786-collab/LeetCode/tree/master/1652-defuse-the-bomb) |
+| [1710-maximum-units-on-a-truck](https://github.com/zaid786-collab/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/zaid786-collab/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/zaid786-collab/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/zaid786-collab/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/zaid786-collab/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0969-pancake-sorting](https://github.com/zaid786-collab/LeetCode/tree/master/0969-pancake-sorting) |
 | [1029-two-city-scheduling](https://github.com/zaid786-collab/LeetCode/tree/master/1029-two-city-scheduling) |
+| [1710-maximum-units-on-a-truck](https://github.com/zaid786-collab/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/zaid786-collab/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/zaid786-collab/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/zaid786-collab/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/zaid786-collab/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0969-pancake-sorting](https://github.com/zaid786-collab/LeetCode/tree/master/0969-pancake-sorting) |
 | [1029-two-city-scheduling](https://github.com/zaid786-collab/LeetCode/tree/master/1029-two-city-scheduling) |
+| [1710-maximum-units-on-a-truck](https://github.com/zaid786-collab/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/zaid786-collab/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Quicksort
 |  |
